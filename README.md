@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Ana Julia 👋
 
-<div align="center">
+<div align="right">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najumattos576&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
